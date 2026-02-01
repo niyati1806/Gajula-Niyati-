@@ -1,0 +1,8 @@
+{
+  "name": "HealthEase",
+  "description": "A beginner-friendly health assistant app designed for underserved populations to triage symptoms and find doctors using AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
